@@ -1,0 +1,1 @@
+Expands TOI article width to span full page
