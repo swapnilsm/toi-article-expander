@@ -6,9 +6,9 @@
     // "browser_action": {
     // 	"default_icon": "icon.png"
     // },
-    "permissions": [
-	"http://api.flickr.com/"
-    ],
+    // "permissions": [
+    // 	"http://epaper.timesofindia.com/"
+    // ],
     "content_scripts": [
 	{
 	    "matches": ["http://epaper.timesofindia.com/Default/Scripting/ArticleWin.asp*"],
